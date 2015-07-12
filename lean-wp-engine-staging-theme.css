@@ -1,0 +1,27 @@
+#wpadminbar {
+    background: #EE9F18 none repeat scroll 0 0 !important;
+
+    color: #ccc;
+    direction: ltr;
+    font: 400 13px/32px "Open Sans",sans-serif;
+    height: 32px;
+    left: 0;
+    min-width: 600px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+#adminmenuwrap {
+    /*background-color: #23282d;*/
+    background: repeating-linear-gradient(
+      45deg,
+      #202020,
+      #202020 10px,
+      #EE9F18 10px,
+      #EE9F18 20px
+    );    
+
+    width: 160px;
+}
