@@ -34,8 +34,7 @@ Then this plugin will not have any affect on your wordpress install. So no need 
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot.png. Note that the screenshot is taken from
-the admin dashboard on a WPengine staging site. The plugin changes the admin bar from black to orange, adds the orange striped strips above and below the admin side bar and adds STAGING before and after the site title and user name.
+This screenshot is taken from the admin dashboard on a WPengine staging site. The plugin changes the admin bar from black to orange, adds the orange striped strips above and below the admin side bar and adds STAGING before and after the site title and user name.  The live site admin styling is unchanged.
 
 == Changelog ==
 
